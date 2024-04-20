@@ -34,5 +34,16 @@ describe('Pruebas en <Navbar/>', () => {
     test('Debe de llamar el logout y navigate cuando se hace click en el boton ', () => { 
         
     });
+    //TODO : 1. Hacer el test de logout y navigate
+
+    test(' ', () => {  
+
+
+
+
+    })
 
 });
+
+
+
